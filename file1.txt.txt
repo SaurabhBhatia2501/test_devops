@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 hello pwc
+=======
+hi this is the file created to test the git project.
+>>>>>>> 77a8b2dad31184faf0966340daf10d645f160d74
